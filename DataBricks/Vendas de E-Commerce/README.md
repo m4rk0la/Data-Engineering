@@ -1,4 +1,5 @@
 E-commerce Sales Analysis with PySpark
+
 📝 Project Overview
 This project demonstrates a complete Data Engineering and Analysis pipeline using the Apache Spark framework with the PySpark API. The goal was to process and analyze a large volume of e-commerce sales data to extract valuable business insights on sales performance and seasonality.
 
@@ -25,7 +26,7 @@ Matplotlib: A data visualization library (optional, for custom plots).
 📊 Dataset
 This project uses the "Online Retail" dataset, available on Kaggle, which contains transactional data from a UK-based online retailer.
 
-Source: Online Retail Dataset - Kaggle
+Source: [Online Retail Dataset - Kaggle]
 
 ⚙️ Project Steps
 The data pipeline was divided into the following sequential phases:
